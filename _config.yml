@@ -1,0 +1,4 @@
+theme: minima
+title: my first site configuration
+author: sham lew
+description: Learning how to add site configurations via a yml file
